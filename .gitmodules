@@ -1,0 +1,4 @@
+[submodule "美团数字人视频"]
+	path = 美团数字人视频
+	url = https://github.com/meituan-longcat/LongCat-Video.git
+	branch = main
